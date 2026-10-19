@@ -1,0 +1,33 @@
+spriteTypes = {
+	spriteType = { name = "GFX_div_templ_65_small" textureFile = "gfx/interface/counters/division_templates_small/custom_template_065.dds" }
+	spriteType = { name = "GFX_unit_anti_air_battery_icon_medium" textureFile = "gfx/interface/counters/divisions_large/support_unit_anti_air_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_anti_air_battery_icon_medium_white" textureFile = "gfx/interface/counters/divisions_small/onmap_unit_anti_air_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_anti_tank_battery_icon_medium" textureFile = "gfx/interface/counters/divisions_large/support_unit_at_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_anti_tank_battery_medium_white" textureFile = "gfx/interface/counters/divisions_small/onmap_unit_at_icon.dds" noOfFrames = 2}
+	spriteType = { name = "GFX_unit_field_guns_icon_medium_white" textureFile = "gfx/interface/counters/divisions_small/onmap_unit_field_guns_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_heavy_spaa_icon_medium_white" textureFile = "gfx/interface/counters/divisions_small/onmap_unit_heavy_spaa_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_heavy_spart_icon_medium_white" textureFile = "gfx/interface/counters/divisions_small/onmap_unit_heavy_spart_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_heavy_tank_destroyer_icon_medium_white" textureFile = "gfx/interface/counters/divisions_small/onmap_unit_heavy_tank_destroyer_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_hq_armored_car_icon_medium" textureFile = "gfx/interface/counters/divisions_large/unit_armored_car_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_hq_armored_car_icon_medium_white" textureFile = "gfx/interface/counters/divisions_small/onmap_unit_armored_car_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_light_spaa_icon_medium_white" textureFile = "gfx/interface/counters/divisions_small/onmap_unit_light_spaa_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_light_spart_icon_medium_white" textureFile = "gfx/interface/counters/divisions_small/onmap_unit_light_spart_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_light_tank_destroyer_icon_medium_white" textureFile = "gfx/interface/counters/divisions_small/onmap_unit_light_tank_destroyer_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_medium_spaa_icon_medium_white" textureFile = "gfx/interface/counters/divisions_small/onmap_unit_medium_spaa_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_medium_spart_icon_medium_white" textureFile = "gfx/interface/counters/divisions_small/onmap_unit_medium_spart_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_medium_tank_destroyer_icon_medium_white" textureFile = "gfx/interface/counters/divisions_small/onmap_unit_medium_tank_destroyer_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_modern_spaa_icon_medium_white" textureFile = "gfx/interface/counters/divisions_small/onmap_unit_modern_spaa_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_modern_spart_icon_medium_white" textureFile = "gfx/interface/counters/divisions_small/onmap_unit_modern_spart_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_modern_tank_destroyer_icon_medium_white" textureFile = "gfx/interface/counters/divisions_small/onmap_unit_modern_tank_destroyer_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_repair_ship_1_icon_medium" texturefile = "gfx/interface/navalcombat/ships/repair_support_ship_I.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_repair_ship_2_icon_medium" texturefile = "gfx/interface/navalcombat/ships/repair_support_ship_II.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_repair_ship_icon_medium" texturefile = "gfx/interface/navalcombat/ships/repair_support_ship.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_repair_ship_icon_medium_black" texturefile = "gfx/interface/counters/ships_small/onmap_repair_support_ship_inverted.dds" }
+	spriteType = { name = "GFX_unit_repair_ship_icon_medium_white" texturefile = "gfx/interface/counters/ships_small/onmap_repair_support_ship.dds" }
+	spriteType = { name = "GFX_unit_rocket_battery_icon_medium" textureFile = "gfx/interface/counters/divisions_large/support_unit_rocket_art_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_support_ship_1_icon_medium" texturefile = "gfx/interface/navalcombat/ships/general_support_ship_I.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_support_ship_2_icon_medium" texturefile = "gfx/interface/navalcombat/ships/general_support_ship_II.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_support_ship_icon_medium" texturefile = "gfx/interface/navalcombat/ships/general_support_ship.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_support_ship_icon_medium_black" texturefile = "gfx/interface/counters/ships_small/onmap_general_support_ship_inverted.dds" }
+	spriteType = { name = "GFX_unit_support_ship_icon_medium_white" texturefile = "gfx/interface/counters/ships_small/onmap_general_support_ship.dds" }
+}
